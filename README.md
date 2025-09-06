@@ -38,13 +38,6 @@ A digital solution to manage maintenance and repair requests in an industrial en
 
 ---
 
-## 📈 GitHub Stats
-
-![Alwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwimaruf&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwimaruf&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Let's Connect!
  
 📧 Email: [alwimaruf05@gmail.com]
