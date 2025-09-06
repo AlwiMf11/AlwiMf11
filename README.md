@@ -30,7 +30,7 @@
 
 ## 🚀 Featured Projects
 
-### 📌 Aplikasi Informasi Pariwisata (Android)
+### 📌 Aplikasi Informasi Pariwisata di kudus (Android)
 A mobile app that provides comprehensive information about tourist destinations, attractions, and nearby facilities — designed to enhance user travel experience.
 
 ### 🛠️ Aplikasi Pengajuan Perawatan dan Perbaikan Mesin Industri (Website)
