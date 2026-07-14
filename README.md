@@ -19,6 +19,14 @@
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
 
+## Github Statistic
+
+<p align="left">
+<a href="https://github.com/AlwiMf11">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlwiMf11&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?AlwiMf11=AlwiMf11&layout=compact&theme=tokyonight"/>
+</a>
+</p>
 **Tools & Platforms:**
 
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
