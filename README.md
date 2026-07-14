@@ -23,7 +23,7 @@
 
 <p align="left">
 <a href="https://github.com/AlwiMf11">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlwiMf11&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?AlwiMf11e=AlwiMf11&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?AlwiMf11=AlwiMf11&layout=compact&theme=tokyonight"/>
 </a>
 </p>
