@@ -25,6 +25,12 @@
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlwiMf11&theme=github_dark)
 
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlwiMf11&theme=github_dark)
+
+![Commits per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlwiMf11&theme=github_dark)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlwiMf11&theme=github_dark)
+
 **Tools & Platforms:**
 
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
