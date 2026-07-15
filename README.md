@@ -29,7 +29,7 @@
 </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=AlwiMf11&label=Profile%20Views&color=blue&style=flat" />
+<!--<img src="https://komarev.com/ghpvc/?username=AlwiMf11&label=Profile%20Views&color=blue&style=flat" />
 
 </div>
 
@@ -74,7 +74,7 @@
 </div>
 
 <br>
-<br>
+<br> -->
 
 **Tools & Platforms:**
 
