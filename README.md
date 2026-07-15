@@ -29,53 +29,6 @@
 </a>
 </p>
 
-<!--<img src="https://komarev.com/ghpvc/?username=AlwiMf11&label=Profile%20Views&color=blue&style=flat" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AlwiMf11&theme=tokyonight&no-frame=true&row=1)
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlwiMf11&theme=github_dark" width="100%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlwiMf11&theme=github_dark" />
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlwiMf11&theme=github_dark" />
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-<br> -->
-
 **Tools & Platforms:**
 
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
