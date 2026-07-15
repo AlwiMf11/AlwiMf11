@@ -19,17 +19,78 @@
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
 
-## 📊 GitHub Stats
+<div align="right">
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlwiMf11&theme=github_dark)
+<img src="https://komarev.com/ghpvc/?username=AlwiMf11&label=Profile%20Views&color=blue&style=flat" />
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlwiMf11&theme=github_dark)
+</div>
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlwiMf11&theme=github_dark)
+<h1 align="center">
+  Hi 👋, I'm Alwi
+</h1>
 
-![Commits per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlwiMf11&theme=github_dark)
+<h3 align="center">
+  A passionate developer from Indonesia
+</h3>
 
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlwiMf11&theme=github_dark)
+<br>
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AlwiMf11&theme=tokyonight&no-frame=true&row=1)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlwiMf11&theme=github_dark" width="100%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlwiMf11&theme=github_dark" />
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlwiMf11&theme=github_dark" />
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlwiMf11&theme=tokyonight" />
+
+</div>
+
+<br>
+
+<div align="right">
+
+### 🏆 GitHub Rating
+
+[![GitHub Readme Rank](https://github-readme-stats.vercel.app/api?username=AlwiMf11&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/AlwiMf11)
+
+</div>
+
 
 **Tools & Platforms:**
 
