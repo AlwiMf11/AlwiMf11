@@ -66,13 +66,6 @@
 </div>
 
 <br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlwiMf11&theme=tokyonight" />
-
-</div>
-
 <br>
 
 **Tools & Platforms:**
