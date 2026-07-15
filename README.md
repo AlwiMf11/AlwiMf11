@@ -19,12 +19,11 @@
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlwiMf11&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=AlwiMf11&theme=tokyonight)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlwiMf11&theme=tokyo-night)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlwiMf11&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlwiMf11&theme=github_dark)
 
 **Tools & Platforms:**
 
