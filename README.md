@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alwi Ma'ruf!
 
 🎓 I'm a graduate of D4 Software Engineering at Politechnic Balekambang Jepara
-💼 Currently working as an **IT Application Spesialist ** at **PT Hwaseung Indonesia 2 (Adidas)**  
+💼 Currently working as an IT Application Spesialist at PT Hwaseung Indonesia 2 (Adidas) 
 💻 Passionate about building efficient and user-friendly applications  
 📱 Specialized in Application MES (Manufacturing Execution System), web & mobile app development, ERP SAP and IT Technical Support
 
