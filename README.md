@@ -25,14 +25,6 @@
 
 </div>
 
-<h1 align="center">
-  Hi 👋, I'm Alwi
-</h1>
-
-<h3 align="center">
-  A passionate developer from Indonesia
-</h3>
-
 <br>
 
 <div align="center">
@@ -82,15 +74,6 @@
 </div>
 
 <br>
-
-<div align="right">
-
-### 🏆 GitHub Rating
-
-[![GitHub Readme Rank](https://github-readme-stats.vercel.app/api?username=AlwiMf11&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/AlwiMf11)
-
-</div>
-
 
 **Tools & Platforms:**
 
