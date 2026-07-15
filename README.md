@@ -24,16 +24,6 @@
 
 ---
 
-<!--## 🚀 Featured Projects
-
-### 📌 Aplikasi Informasi Pariwisata di kudus (Android)
-A mobile app that provides comprehensive information about tourist destinations, attractions, and nearby facilities — designed to enhance user travel experience.
-
-### 🛠️ Aplikasi Pengajuan Perawatan dan Perbaikan Mesin Industri (Website)
-A digital solution to manage maintenance and repair requests in an industrial environment — built to optimize efficiency and reduce downtime. --!>
-
----
-
 ## 📫 Let's Connect!
  
 📧 Email: [alwimaruf05@gmail.com]
