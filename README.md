@@ -3,7 +3,7 @@
 🎓 I'm a graduate of D4 Software Engineering  
 💼 Currently working as an **IT Programmer Staff** at **PT Hwaseung Indonesia 2 (Adidas)**  
 💻 Passionate about building efficient and user-friendly applications  
-📱 Specialized in mobile, web app development, MES (Manufacturing Execution System) ERP SAP and IT Support
+📱 Specialized in web & mobile app development, MES (Manufacturing Execution System), ERP SAP and IT Technical Support
 
 ---
 
