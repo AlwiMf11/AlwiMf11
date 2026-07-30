@@ -7,11 +7,16 @@
 ---
 
 ### Github Statistic
-<p align="left">
-<a href="https://github.com/AlwiMf11/">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlwiMf11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlwiMf11&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlwiMf11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlwiMf11&layout=compact&langs_count=6&theme=algolia"
+  />
 </p>
 
 **Tools & Platforms:**
@@ -20,7 +25,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server)
-
 ---
 
 ## 📫 Let's Connect!
