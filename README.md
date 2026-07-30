@@ -5,12 +5,12 @@
 📱 Specialized in web & mobile app development, MES (Manufacturing Execution System), ERP SAP and IT Technical Support
 
 ---
-
 ### Github Statistic
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlwiMf11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwiMf11&layout=compact&theme=algolia" height="180"/>
+<p align="left">
+<a href="https://github.com/AlwiMf11/">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlwiMf11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlwiMf11&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 **Tools & Platforms:**
