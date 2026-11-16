@@ -14,14 +14,14 @@
     <td width="50%" align="center" valign="middle">
       <img
         src="https://ghstats.dev/api/card?username=AlwiMf11&theme=tokyonight&hide=streak,week,trend,avg,active_day,grade,contributions,repos,followers"
-        width="100%"
+        width="414"
         alt="GitHub Stats"
       />
     </td>
     <td width="50%" align="center" valign="middle">
       <img
         src="https://ghstats.dev/api/langs?username=AlwiMf11&theme=tokyonight&layout=compact"
-        width="100%"
+        width="405"
         alt="Top Languages"
       />
     </td>
