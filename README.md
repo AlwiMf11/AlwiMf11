@@ -9,13 +9,15 @@
 
 ### 📊 GitHub Statistics
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/AlwiMf11">
     <img
       height="180em"
       src="https://github-readme-stats.vercel.app/api?username=AlwiMf11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
       alt="GitHub Stats"
     />
+  </a>
+  <a href="https://github.com/AlwiMf11">
     <img
       height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwiMf11&layout=compact&langs_count=8&theme=algolia"
