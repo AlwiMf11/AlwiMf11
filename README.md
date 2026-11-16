@@ -7,17 +7,11 @@
 ---
 
 
-<h2 align="center">📊 GitHub Statistics</h2>
+## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/AlwiMf11">
-    <img width="49%"
-      src="https://github-readme-stats.vercel.app/api?username=AlwiMf11&show_icons=true&theme=algolia&rank_icon=github&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/AlwiMf11">
-    <img width="49%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwiMf11&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlwiMf11&show_icons=true&theme=algolia&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwiMf11&layout=compact&langs_count=8&theme=algolia" width="49%" />
 </p>
 
 
