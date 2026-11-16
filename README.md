@@ -9,13 +9,16 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%"
-    src="https://ghstats.dev/api/card?username=AlwiMf11&theme=tokyonight"
-    alt="GitHub Stats" />
-
-  <img width="49%"
+  <img
+    width="49%"
+    src="https://ghstats.dev/api/card?username=AlwiMf11&theme=tokyonight&hide=streak,week,trend,avg,active_day,grade,contributions,repos,followers"
+    alt="GitHub Stats"
+  />
+  <img
+    width="49%"
     src="https://ghstats.dev/api/langs?username=AlwiMf11&theme=tokyonight&layout=compact"
-    alt="Top Languages" />
+    alt="Top Languages"
+  />
 </p>
 
 
