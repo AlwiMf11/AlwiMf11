@@ -7,24 +7,18 @@
 ---
 
 
+<h2 align="center">📊 GitHub Statistics</h2>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=AlwiMf11&show_icons=true&theme=algolia" />
-
-  <!-- Top Languages -->
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlwiMf11&layout=compact&langs_count=8&theme=algolia" />
-
-  <br/><br/>
-
-  <!-- Contribution Graph -->
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlwiMf11&theme=react-dark" />
-
-</div>
-
+<p align="center">
+  <a href="https://github.com/AlwiMf11">
+    <img width="49%"
+      src="https://github-readme-stats.vercel.app/api?username=AlwiMf11&show_icons=true&theme=algolia&rank_icon=github&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/AlwiMf11">
+    <img width="49%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwiMf11&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 
 **Tools & Platforms:**
