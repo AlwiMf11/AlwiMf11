@@ -7,12 +7,21 @@
 ---
 
 
-### Github Statistic
+### 📊 GitHub Statistics
+
 <p align="left">
-<a href="https://github.com/AlwiMf11/">
-  (https://github-readme-stats.vercel.app/api?username=AlwiMf11)](https://github.com/AlwiMf11/github-readme-stats)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwiMf11&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/asep">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=asep&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+      alt="GitHub Stats"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=asep&layout=compact&langs_count=8&theme=algolia"
+      alt="Top Languages"
+    />
+  </a>
 </p>
 
 
