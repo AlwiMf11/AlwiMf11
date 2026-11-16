@@ -7,17 +7,24 @@
 ---
 
 
-### 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180"
-    src="https://github-stats-extended.vercel.app/api?username=AlwiMf11&show_icons=true&theme=algolia"
-    alt="GitHub Stats" />
+## 📊 GitHub Statistics
 
-  <img height="180"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlwiMf11&layout=compact&langs_count=8&theme=algolia"
-    alt="Top Languages" />
-</p>
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=AlwiMf11&show_icons=true&theme=algolia" />
+
+  <!-- Top Languages -->
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlwiMf11&layout=compact&langs_count=8&theme=algolia" />
+
+  <br/><br/>
+
+  <!-- Contribution Graph -->
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlwiMf11&theme=react-dark" />
+
+</div>
+
 
 
 **Tools & Platforms:**
