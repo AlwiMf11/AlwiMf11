@@ -6,22 +6,29 @@
 
 ---
 
+
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    width="49%"
-    height="230"
-    src="https://ghstats.dev/api/card?username=AlwiMf11&theme=tokyonight&hide=streak,week,trend,avg,active_day,grade,contributions,repos,followers"
-    alt="GitHub Stats"
-  />
-  <img
-    width="49%"
-    height="230"
-    src="https://ghstats.dev/api/langs?username=AlwiMf11&theme=tokyonight&layout=compact"
-    alt="Top Languages"
-  />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img
+        src="https://ghstats.dev/api/card?username=AlwiMf11&theme=tokyonight&hide=streak,week,trend,avg,active_day,grade,contributions,repos,followers"
+        width="400"
+        height="260"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td width="50%">
+      <img
+        src="https://ghstats.dev/api/langs?username=AlwiMf11&theme=tokyonight&layout=compact"
+        width="400"
+        height="260"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 
 **Tools & Platforms:**
