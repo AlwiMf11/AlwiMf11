@@ -13,7 +13,7 @@
 <p align="left">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=AlwiMf11&show_icons=true&hide=contribs,prs&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlwiMf11&theme=tokyonight"
     alt="GitHub Statistics"
   />
   <img
