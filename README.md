@@ -7,19 +7,13 @@
 ---
 
 
-## 📊 GitHub Statistics
+### Github Statistic
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://ghstats.dev/api/card?username=AlwiMf11&theme=tokyonight&hide=streak,week,trend,avg,active_day,grade,contributions,repos,followers"
-    alt="GitHub Stats"
-  />
-  <img
-    height="180em"
-    src="https://ghstats.dev/api/langs?username=AlwiMf11&theme=tokyonight&layout=compact"
-    alt="Top Languages"
-  />
+<p align="left">
+<a href="https://github.com/AlwiMf11/">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlwiMf11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlwiMf11&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 
