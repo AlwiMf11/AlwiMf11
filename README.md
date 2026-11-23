@@ -13,12 +13,12 @@
 <p align="center">
   <img
     height="180em"
-    src="https://ghstats.dev/api/card?username=AlwiMf11&theme=tokyonight&show_icons=true&show_ring=true&hide=streak,week,trend,avg,active_day,contributions,repos,followers"
-    alt="GitHub Stats"
+    src="https://github-stats-extended.vercel.app/api?username=AlwiMf11&show_icons=true&include_all_commits=true&theme=tokyonight"
+    alt="GitHub Stats with Rank"
   />
   <img
     height="180em"
-    src="https://ghstats.dev/api/langs?username=AlwiMf11&theme=tokyonight&layout=compact"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=AlwiMf11&layout=compact&langs_count=8&theme=tokyonight"
     alt="Top Languages"
   />
 </p>
