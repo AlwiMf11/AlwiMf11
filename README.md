@@ -7,21 +7,28 @@
 ---
 
 
-
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img
     height="180em"
-    src="https://github-stats-extended.vercel.app/api?username=AlwiMf11&show_icons=true&include_all_commits=true&theme=tokyonight"
-    alt="GitHub Stats with Rank"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlwiMf11&theme=tokyonight"
+    alt="GitHub Statistics"
   />
   <img
     height="180em"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=AlwiMf11&layout=compact&langs_count=8&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwiMf11&layout=compact&theme=tokyonight"
     alt="Top Languages"
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AlwiMf11&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Rank Statistics"
+  />
+</p>
+
 
 
 
