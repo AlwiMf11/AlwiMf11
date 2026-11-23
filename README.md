@@ -9,7 +9,7 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<p align="left">
   <img
     height="180em"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlwiMf11&theme=tokyonight"
