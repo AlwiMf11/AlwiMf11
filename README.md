@@ -8,16 +8,22 @@
 
 
 
+
 ### 📊 Github Statistic
 
 <p align="left">
   <a href="https://github.com/AlwiMf11">
     <img height="180em"
-      src="https://github-stats-extended.vercel.app/api?username=AlwiMf11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&rank_icon=default"/>
+      src="https://github-stats-extended.vercel.app/api?username=AlwiMf11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_rank=true"/>
     <img height="180em"
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlwiMf11&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub%20Rank-A-00C853?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
 
 
 
