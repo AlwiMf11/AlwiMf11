@@ -8,20 +8,17 @@
 
 
 
-## 📊 GitHub Statistics
+### 📊 Github Statistic
 
 <p align="left">
-  <img
-    height="180em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlwiMf11&theme=tokyonight"
-    alt="GitHub Statistics"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwiMf11&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/AlwiMf11">
+    <img height="180em"
+      src="https://github-stats-extended.vercel.app/api?username=AlwiMf11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&rank_icon=percentile"/>
+    <img height="180em"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlwiMf11&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
+
 
 
 **Tools & Platforms:**
